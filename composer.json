@@ -1,0 +1,15 @@
+{
+    "name": "docallos/student-management",
+    "description": "Basic student management",
+    "autoload": {
+        "psr-4": {
+            "Docallos\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "docallos jickey T."
+        }
+    ],
+    "require": {}
+}
